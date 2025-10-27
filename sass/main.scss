@@ -173,8 +173,11 @@ nav {
                 list-style: none;
                 padding: 0;
                 margin: 0.5rem 0;
-                .li{
-                    color: #0c0c0c;
+                li{
+                    &:first-child {
+                        color: #0c0c0c;
+                        text-transform: uppercase;
+                    }
                 }
             }
         }
