@@ -128,7 +128,6 @@ nav ul li {
   padding: 0;
   margin: 0.5rem 0;
 }
-#news .scroll-container article ul li:first-child {
-  color: #a6a6a6;
-  text-transform: uppercase;
+#news .scroll-container article ul .li {
+  color: #0c0c0c;
 }/*# sourceMappingURL=main.css.map */
